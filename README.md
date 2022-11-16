@@ -1,12 +1,26 @@
+PHP Websote Work Sample
 
-# DesignX  Shooes
+Preschool Website
+
+It is a preschool website, which contains school management and student management system.
+Tools: PHP, MySQL, Bootstrap
+
+https://www.uniquepreschool.co.in/
+
+
+
+
+
+
+
+
+
 
 Select from a wide variety of shoes available only on DesignX online store at great prices. Great All Brands shoe collection awaits you. Explore the classics range and shop today.
 
 
 ## Demo
 
-Designx - https://designx-shooes-php.herokuapp.com/
 
 email = kishansharma253.com
 
