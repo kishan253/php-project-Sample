@@ -8,9 +8,9 @@ Select from a wide variety of shoes available only on DesignX online store at gr
 
 Designx - https://designx-shooes-php.herokuapp.com/
 
-email = angel@gmail.com
+email = kishansharma253.com
 
-Password = angel 
+
 
 
 ## Features
@@ -48,10 +48,10 @@ Password = angel
 ![App Screenshot](https://www.linkpicture.com/q/screencapture-designx-shooes-php-herokuapp-order-php-2022-11-12-12_29_13.png)
 ## Feedback
 
-If you have any feedback, please reach out to us at sanketbeladiya332003@gmail.com
+If you have any feedback, please reach out to us at kishansharma253.com
 
 
 ## Contact Us
 
 If you have Admin panel id and password , please reach out us at 
-sanketbeladiya332003@gmail.com and  +91 99789 65133
+kishansharma253.com and  +91 9664 774887
